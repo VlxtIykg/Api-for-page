@@ -89,4 +89,15 @@
         "Keyword": "?DOS",
         "Usage": "Difference between bash and dos"
     }
+    ,
+    {
+        "id": "17NVC",
+        "Header": "13) What is CLI?",
+        "Description_Content": "CLI is short for Command Line Interface. This interface allows the user to type declarative commands to instruct the computer to perform operations. CLI offers greater flexibility. However, other users who are already accustomed to using GUI find it difficult to remember commands including attributes that come with it.",
+        "Source": "https://www.guru99.com/linux-interview-questions-answers.html",
+        "Date of source": "29 December 2021",
+        "Question?": "10",
+        "Keyword": "?CLI",
+        "Usage": "For commands like lsblk"
+    }
 ]
