@@ -1,0 +1,11 @@
+{
+ "shard": {
+  "arachno_resistance": 100
+ },
+  "armor": {
+   "arachno_resistance": 50
+ },
+  "helmet": {
+    "arachno_resistance": 20
+  }
+}
